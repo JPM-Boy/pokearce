@@ -1058,3 +1058,5 @@ Common_EventScript_LegendaryFlewAway::
 	.include "data/text/birch_speech.inc"
 
 	.include "data/maps/El_Masnou/scripts.inc"
+
+	.include "data/maps/Ruta1/scripts.inc"

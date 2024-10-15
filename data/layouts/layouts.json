@@ -4420,6 +4420,16 @@
       "secondary_tileset": "gTileset_Petalburg",
       "border_filepath": "data/layouts/El_Masnou/border.bin",
       "blockdata_filepath": "data/layouts/El_Masnou/map.bin"
+    },
+    {
+      "id": "LAYOUT_RUTA1",
+      "name": "Ruta1_Layout",
+      "width": 50,
+      "height": 30,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/Ruta1/border.bin",
+      "blockdata_filepath": "data/layouts/Ruta1/map.bin"
     }
   ]
 }
